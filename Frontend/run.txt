@@ -1,0 +1,2 @@
+activate my-rdkit-env
+streamlit run main_module.py
